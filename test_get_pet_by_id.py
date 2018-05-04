@@ -1,5 +1,7 @@
 import unittest
 import logging
+
+from SwaggerClientAPI.pet_model import PetModel
 from SwaggerClientAPI.swagger_requests import SwaggerRequests
 from xml.etree import ElementTree
 
@@ -7,6 +9,8 @@ class GetRequestTest(unittest.TestCase):
 
     def setUp(self):
         self.make_request = SwaggerRequests()
+        # pet_model = PetModel(0, category='cat')
+        # self.make_request.post_pet_data_json(pet_model, '/')
         self.make_request.post_pet_data_json('1', 'Luki', '/')
 
     def test_get_json(self):

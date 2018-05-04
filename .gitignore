@@ -1,0 +1,4 @@
+*.pyc
+pet_model.py
+swager_requests.log
+*.log
