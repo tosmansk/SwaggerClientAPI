@@ -1,7 +1,7 @@
 import unittest
 from SwaggerClientAPI.swagger_requests import SwaggerRequests
 
-class CreatePet(unittest.TestCase):
+class CreatePetTest(unittest.TestCase):
 
     def setUp(self):
         self.make_request = SwaggerRequests()
