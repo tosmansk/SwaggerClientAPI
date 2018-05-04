@@ -1,6 +1,6 @@
 import unittest
 import logging
-from swagger_requests import SwaggerRequests
+from SwaggerClientAPI.swagger_requests import SwaggerRequests
 from xml.etree import ElementTree
 
 class GetRequestTest(unittest.TestCase):
