@@ -1,0 +1,146 @@
+INFO - get_pet_by_id/test_get_json - 2018-04-30 14:17:28,774 : TEST COMPLETED
+INFO - get_pet_by_id/test_get_json - 2018-04-30 14:19:01,284 : TEST COMPLETED
+INFO - get_pet_by_id/test_get_xml - 2018-04-30 14:19:01,750 : TEST COMPLETED
+INFO - get_pet_by_id/test_get_json - 2018-04-30 14:22:51,848 : TEST COMPLETED
+INFO - get_pet_by_id/test_get_xml - 2018-04-30 14:22:52,306 : TEST COMPLETED
+INFO - get_pet_by_id/test_get_json - 2018-04-30 14:24:29,929 : TEST COMPLETED
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 11:48:22,737 : 
+tests run: 2
+errors: 0
+failures: 1
+success: 1
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 11:50:35,464 : RESULTS:
+tests run: 2
+errors: 0
+failures: 1
+success: 1
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 11:51:36,184 : TESTS RESULTS:
+tests run: 2
+errors: 0
+failures: 1
+success: 1
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 11:52:50,931 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 1
+success: 1
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 11:56:38,606 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 11:59:10,091 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 17:41:54,731 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 2
+success: 0
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 17:43:13,421 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 2
+success: 0
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 17:43:53,691 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 17:44:32,183 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 17:48:09,921 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 17:48:29,191 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 18:12:36,351 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 2
+success: 0
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 22:02:57,786 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 22:55:10,132 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 22:59:22,759 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+DEBUG - get_pet_by_id/tearDownClass - 2018-05-01 23:00:29,678 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+INFO - get_pet_by_id/tearDownClass - 2018-05-01 23:01:20,937 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+INFO - get_pet_by_id/tearDownClass - 2018-05-04 19:59:12,480 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
+INFO - get_pet_by_id/tearDownClass - 2018-05-04 19:59:21,776 : TEST RESULTS:
+run: 2
+errors: 0
+failures: 0
+success: 2
+skipped: 0
+
