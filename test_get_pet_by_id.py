@@ -1,6 +1,6 @@
 import unittest
 import logging
-from SwaggerClientAPI.swagger_requests import SwaggerRequests
+from swagger_requests import SwaggerRequests
 from xml.etree import ElementTree
 
 class GetRequestTest(unittest.TestCase):
@@ -25,6 +25,7 @@ class GetRequestTest(unittest.TestCase):
         _xml_elements = ElementTree.fromstring(_xml_reponse.text)
         self.assertEqual(self.make_request.find_xml_element(_xml_elements, 'name'), 'Luki')
 
+    """
     @classmethod
     def setUpClass(cls):
         cls.logger = logging.getLogger(__name__)
@@ -57,6 +58,8 @@ class GetRequestTest(unittest.TestCase):
     def run(self, result=None):
         self.currentResult = result # remember result for use in tearDown
         unittest.TestCase.run(self, result) # call superclass run method
+        
+    """
 
 if __name__ == '__main__':
     unittest.main()
