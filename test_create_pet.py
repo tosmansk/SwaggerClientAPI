@@ -11,5 +11,5 @@ class CreatePetTest(unittest.TestCase):
     def test_post_request_json(self):
         post_response = self.make_request.post_pet_data_json('1', 'Luki', '/')
         print(post_response.json())
-        self.assertEqual(post_response.status_code, '200')
+        self.assertEqual(post_response.status_code, 200)
 
