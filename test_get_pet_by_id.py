@@ -2,7 +2,7 @@ import unittest
 import logging
 
 # from SwaggerClientAPI.pet_model import PetModel
-from SwaggerClientAPI.swagger_requests import SwaggerRequests
+from swagger_requests import SwaggerRequests
 from xml.etree import ElementTree
 
 class GetRequestTest(unittest.TestCase):

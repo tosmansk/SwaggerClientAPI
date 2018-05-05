@@ -626,3 +626,59 @@ DEBUG - swagger_requests/get_pet_data_xml - 2018-05-04 19:59:21,775 : GET:XML UR
 DEBUG - swagger_requests/get_pet_data_xml - 2018-05-04 19:59:21,775 : GET:XML URL: http://petstore.swagger.io/v2/pet/1
 DEBUG - swagger_requests/get_pet_data_xml - 2018-05-04 19:59:21,775 : GET:XML RESPONSE CODE: 200
 DEBUG - swagger_requests/get_pet_data_xml - 2018-05-04 19:59:21,775 : GET:XML RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:33,981 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,228 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,228 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,229 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,229 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,448 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,448 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,448 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,448 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/get_pet_data_json - 2018-05-05 19:04:39,674 : GET URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_json - 2018-05-05 19:04:39,674 : GET URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_json - 2018-05-05 19:04:39,674 : GET:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/get_pet_data_json - 2018-05-05 19:04:39,674 : GET:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,675 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,675 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,675 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,900 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,900 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,900 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,900 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,900 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:04:39,900 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:04:40,120 : GET:XML URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:04:40,120 : GET:XML URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:04:40,120 : GET:XML URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:04:40,120 : GET:XML RESPONSE CODE: 200
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:04:40,120 : GET:XML RESPONSE CODE: 200
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:04:40,120 : GET:XML RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:44,033 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,350 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,350 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,351 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,351 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,573 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,573 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,573 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,573 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/get_pet_data_json - 2018-05-05 19:28:45,801 : GET URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_json - 2018-05-05 19:28:45,801 : GET URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_json - 2018-05-05 19:28:45,801 : GET:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/get_pet_data_json - 2018-05-05 19:28:45,801 : GET:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,802 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,802 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:45,802 : POST:JSON URL: http://petstore.swagger.io/v2/pet/
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:46,022 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:46,022 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:46,022 : POST:JSON RESPONSE CODE: 200
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:46,022 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:46,022 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/post_pet_data_json - 2018-05-05 19:28:46,022 : POST:JSON DATA: { "id": 1, "name": Luki }
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:28:46,244 : GET:XML URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:28:46,244 : GET:XML URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:28:46,244 : GET:XML URL: http://petstore.swagger.io/v2/pet/1
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:28:46,244 : GET:XML RESPONSE CODE: 200
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:28:46,244 : GET:XML RESPONSE CODE: 200
+DEBUG - swagger_requests/get_pet_data_xml - 2018-05-05 19:28:46,244 : GET:XML RESPONSE CODE: 200
